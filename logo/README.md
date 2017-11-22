@@ -1,0 +1,3 @@
+# logo 
+
+Logos for Scalaz.
